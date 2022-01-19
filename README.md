@@ -4,4 +4,4 @@
 
 2./
 
-    cd / && wget -c https://raw.githubusercontent.com/anylines/jbot/main/1.tar.gz && chmod +x /jd
+    cd / && wget -c https://raw.githubusercontent.com/anylines/jbot/main/0.tar.gz && tar -zxvf 0.tar.gz && chmod +x /jd
